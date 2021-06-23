@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ventas001DModelStoreContainer" CdmEntityContainer="ventas001DEntities">
+    <EntitySetMapping Name="Categoria">
+      <EntityTypeMapping TypeName="ventas001DModel.Categoria">
+        <MappingFragment StoreEntitySet="Categoria">
+          <ScalarProperty Name="idCategoria" ColumnName="idCategoria" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="activo" ColumnName="activo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Marca">
+      <EntityTypeMapping TypeName="ventas001DModel.Marca">
+        <MappingFragment StoreEntitySet="Marca">
+          <ScalarProperty Name="idMarca" ColumnName="idMarca" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="activo" ColumnName="activo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Producto">
+      <EntityTypeMapping TypeName="ventas001DModel.Producto">
+        <MappingFragment StoreEntitySet="Producto">
+          <ScalarProperty Name="idProducto" ColumnName="idProducto" />
+          <ScalarProperty Name="codigoBarra" ColumnName="codigoBarra" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="precioCosto" ColumnName="precioCosto" />
+          <ScalarProperty Name="precioVenta" ColumnName="precioVenta" />
+          <ScalarProperty Name="stock" ColumnName="stock" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

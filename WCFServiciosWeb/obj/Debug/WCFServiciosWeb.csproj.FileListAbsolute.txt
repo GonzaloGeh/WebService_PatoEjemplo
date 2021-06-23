@@ -1,0 +1,7 @@
+C:\Users\Gonza\Documents\3.- Programaciones .NET C#\EjemploProyectoEnCapas\WCFServiciosWeb\bin\Debug\WCFServiciosWeb.dll.config
+C:\Users\Gonza\Documents\3.- Programaciones .NET C#\EjemploProyectoEnCapas\WCFServiciosWeb\bin\Debug\WCFServiciosWeb.dll
+C:\Users\Gonza\Documents\3.- Programaciones .NET C#\EjemploProyectoEnCapas\WCFServiciosWeb\bin\Debug\WCFServiciosWeb.pdb
+C:\Users\Gonza\Documents\3.- Programaciones .NET C#\EjemploProyectoEnCapas\WCFServiciosWeb\obj\Debug\WCFServiciosWeb.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\Documents\3.- Programaciones .NET C#\EjemploProyectoEnCapas\WCFServiciosWeb\obj\Debug\WCFServiciosWeb.dll
+C:\Users\Gonza\Documents\3.- Programaciones .NET C#\EjemploProyectoEnCapas\WCFServiciosWeb\obj\Debug\WCFServiciosWeb.pdb
+C:\Users\Gonza\Documents\3.- Programaciones .NET C#\EjemploProyectoEnCapas\WCFServiciosWeb\obj\Debug\WCFServiciosWeb.csprojAssemblyReference.cache
